@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ahxel
 - 👀 I’m interested in playing and developing video games
-- 🌱 I’m currently learning how to improve in Unity game development and how to use Unreal
+- 🌱 I’m currently learning how to improve in Unity game development
 - 💞️ I’m looking to collaborate on any personal/passion video game project as a programmer.
 - 📫 How to reach me: reach.ahxel@outlook.com
 
